@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kzvyagin
-- 👀 I’m interested in desctop and mobile development on C++, Qt using  OpenCV, and AI
+- 👀 I’m interested in desctop and mobile development on C++, Qt, OpenCV, and AI
 - 🌱 I’m currently learning Flutter, Python
 - 💞️ I’m looking to collaborate on mobile CV projects
 - 📫 How to reach me knzvyagin@gmail.com
