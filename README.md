@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kzvyagin
+- 👋 Hi, I’m @kzvyagin, Team Lead in OMP ( https://www.omp.ru/ )  
 - 👀 I’m interested in desctop and mobile development on C++, Qt, OpenCV, and AI
 - 🌱 I’m currently learning Flutter, Python
 - 💞️ I’m looking to collaborate on mobile CV projects
